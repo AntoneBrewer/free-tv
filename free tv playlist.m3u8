@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,IPTV Org Master Playlist
+https://iptv-org.github.io/iptv/index.m3u
+#EXTINF:-1,TVPass
+https://tvpass.org/playlist/m3u
+#EXTINF:-1,Ssung USA
+https://apsattv.com/ssungusa.m3u
+#EXTINF:-1,Xumo
+https://www.apsattv.com/xumo.m3u
+#EXTINF:-1,Local Now
+https://www.apsattv.com/localnow.m3u
+#EXTINF:-1,LG
+https://www.apsattv.com/lg.m3u
+#EXTINF:-1,Roku
+https://www.apsattv.com/rok.m3u
+#EXTINF:-1,Redbox
+https://www.apsattv.com/redbox.m3u
+#EXTINF:-1,Distro
+https://www.apsattv.com/distro.m3u
+#EXTINF:-1,Xiaomi
+https://www.apsattv.com/xiaomi.m3u
+#EXTINF:-1,Tablo
+https://www.apsattv.com/tablo.m3u
+#EXTINF:-1,Vizio
+https://www.apsattv.com/vizio.m3u
+#EXTINF:-1,Free TV Master Playlist
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+#EXTINF:-1,Free2ViewTV
+https://od.lk/s/MzJfMTY2NzU4NDVf/Free2ViewTV-2021-Master.m3u
+#EXTINF:-1,Klowd
+https://www.apsattv.com/klowd.m3u
+#EXTINF:-1,PBS All
+https://i.mjh.nz/PBS/all.m3u8
+#EXTINF:-1,Stirr All
+https://i.mjh.nz/Stirr/all.m3u8
